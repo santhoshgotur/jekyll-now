@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 Hi.
-I am a software performance engineer and vivid a learner of professional photography.
+I am a software performance engineer and a vivid learner of professional photography.
